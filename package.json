@@ -1,0 +1,27 @@
+{
+  "name": "serverless-formdata",
+  "version": "0.0.1",
+  "description": "Parse multipart/form-data events",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snamoah/serverless-formdata.git"
+  },
+  "keywords": [
+    "serverless",
+    "multipart-formdata",
+    "multipart-support",
+    "formdata",
+    "aws-lambda",
+    "aws"
+  ],
+  "author": "Samuel Amoah <sa.am@programmer.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snamoah/serverless-formdata/issues"
+  },
+  "homepage": "https://github.com/snamoah/serverless-formdata#readme"
+}
